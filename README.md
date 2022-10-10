@@ -1,4 +1,4 @@
-# counter_mvp
+# flutter.counter.mvp
 
 A new Flutter project.
 
